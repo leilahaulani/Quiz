@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="check" >Comprueba</string>
+    <string name="question">Pregunta</string>
+    <string name="question_content">Cuando es el cumpleaños de Leila?</string>
+    <string name="Correct">Muy bien!!!</string>
+    <string name="Incorrect">Incorrecto</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="question_content">When is Leila birthday?</string>
+    <integer name="correct_answer">1</integer>
+    <array name="answers">
+        <item>10/12/1996</item>
+        <item>12/10/1996</item>
+        <item>12/10/1995</item>
+        <item>11/10/1996</item>
+    </array>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
+</resources>
